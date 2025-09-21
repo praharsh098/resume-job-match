@@ -1,0 +1,25 @@
+[
+  {
+    "id": "job_1",
+    "title": "Junior Data Scientist",
+    "company": "AnalyticsX",
+    "location": "Bangalore, India",
+    "description": "We are looking for a Junior Data Scientist with experience in Python, pandas, scikit-learn, SQL. Responsibilities include building models, feature engineering, and data visualization. Familiarity with NLP is a plus."
+  },
+  {
+    "id": "job_2",
+    "title": "NLP Engineer",
+    "company": "LangTech",
+    "location": "Remote",
+    "description": "Seeking an NLP engineer experienced with transformers, PyTorch, and productionizing NLP models. Tasks include building semantic search and text classification systems."
+  },
+  {
+    "id": "job_3",
+    "title": "Data Analyst",
+    "company": "RetailCorp",
+    "location": "Mumbai, India",
+    "description": "Role involves SQL, dashboarding (Tableau/PowerBI), and generating business insights from sales datasets. Knowledge of Python for ETL is desirable."
+  }
+]
+
+

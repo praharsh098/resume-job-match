@@ -1,0 +1,6 @@
+Sonal Mehta
+Skills: Transformers, PyTorch, NLP, Semantic Search, web scraping
+Experience: Built an NLP pipeline for document classification and semantic search
+Looking for roles as NLP Engineer or Research Intern.
+
+

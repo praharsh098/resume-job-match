@@ -1,0 +1,7 @@
+Praharsh Agrawal
+Email: agrawalpraharsh@gmail.com
+Skills: Python, pandas, NumPy, scikit-learn, SQL, Streamlit, Flask
+Projects: Job Salary Prediction app, Resume parser (python), Titanic ML
+Looking for internship as Data Scientist or ML engineer.
+
+
