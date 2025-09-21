@@ -56,15 +56,15 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 ---
-# Index Sample Jobs
+### Index Sample Jobs
 python -m scripts.index_jobs
 
 ---
-# Start the Backend
+### Start the Backend
 python -m uvicorn app.main:app --reload --port 8000
 
 ---
-# Start the frontend (On another terminal)
+### Start the frontend (On another terminal)
 streamlit run streamlit_app/ui.py
 
 ```bash
