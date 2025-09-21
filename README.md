@@ -18,28 +18,6 @@
 
 ---
 
-## 📂 Project Structure
-resume-job-match/
-├── app/ # FastAPI backend
-│ ├── main.py
-│ └── matcher.py
-├── streamlit_app/ # Streamlit frontend
-│ └── ui.py
-├── scripts/ # Indexing scripts
-│ ├── init.py
-│ ├── index_jobs.py
-│ └── utils.py
-├── data/ # Sample data
-│ ├── sample_jobs.json
-│ └── sample_resumes/
-├── models/ # Saved embeddings
-├── requirements.txt
-├── README.md
-└── Dockerfile
-
-
----
-
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repo
