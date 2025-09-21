@@ -22,27 +22,27 @@
 
 ### 1️⃣ Clone the repo
 ---
-git clone https://github.com/<your-username>/resume-job-match.git
-cd resume-job-match
+- git clone https://github.com/<your-username>/resume-job-match.git
+- cd resume-job-match
 
 ---
 ### Setup environment
-python -m venv venv
-source venv/bin/activate     # For Linux/Mac
-venv\Scripts\activate        # For Windows
-pip install --upgrade pip
-pip install -r requirements.txt
+- python -m venv venv
+- source venv/bin/activate     # For Linux/Mac
+- venv\Scripts\activate        # For Windows
+- pip install --upgrade pip
+- pip install -r requirements.txt
 
 ---
 ### Index Sample Jobs
-python -m scripts.index_jobs
+- python -m scripts.index_jobs
 
 ---
 ### Start the Backend
-python -m uvicorn app.main:app --reload --port 8000
+- python -m uvicorn app.main:app --reload --port 8000
 
 ---
 ### Start the frontend (On another terminal)
-streamlit run streamlit_app/ui.py
+- streamlit run streamlit_app/ui.py
 
 ```bash
